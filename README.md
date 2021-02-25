@@ -1,2 +1,2 @@
 # Python-project
-Python notes
+Python not
